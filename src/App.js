@@ -12,7 +12,7 @@ export default function App() {
     <Dictionary />
     </main>
     <footer className="text-center"> 
-      Coded by Mariana Carvalho
+      This project was coded by Mariana Carvalho and is open sourced on <a href='https://github.com/MarianavCarvalho/dictionary-my-app'>GitHub</a>
     </footer>
       
       </div>
