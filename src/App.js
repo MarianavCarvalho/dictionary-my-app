@@ -6,12 +6,11 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-      <header className="App-header">
-        </header>
+      
   <main>
-    <Dictionary defaultKeyword="book"/>
+    <Dictionary defaultKeyword="lisbon"/>
     </main>
-    <footer className="text-center"> 
+    <footer> 
       This project was coded by Mariana Carvalho and is open sourced on <a href='https://github.com/MarianavCarvalho/dictionary-my-app'>GitHub</a>
     </footer>
       
