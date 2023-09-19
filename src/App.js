@@ -9,7 +9,7 @@ export default function App() {
       <header className="App-header">
         </header>
   <main>
-    <Dictionary />
+    <Dictionary defaultKeyword="book"/>
     </main>
     <footer className="text-center"> 
       This project was coded by Mariana Carvalho and is open sourced on <a href='https://github.com/MarianavCarvalho/dictionary-my-app'>GitHub</a>
